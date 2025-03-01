@@ -31,7 +31,7 @@ This project is a cryptocurrency data gathering solution built using Hyperswarm 
 
 #### 1️⃣ Clone  repository
 ```sh
-git clone https://github.com/your-repo/tether-project.git
+git clone https://github.com/kishan-ghetiya/tether-challenge.git
 cd tether-project
 ```
 
