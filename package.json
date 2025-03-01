@@ -1,0 +1,24 @@
+{
+  "name": "tether-project",
+  "version": "1.0.0",
+  "description": "Tether coding challenge",
+  "main": "src/rpcServer.js",
+  "scripts": {
+    "server": "node src/rpcServer.js",
+    "client": "node src/rpcClient.js",
+    "scheduler": "node src/scheduler.js",
+    "test": "echo \"No tests implemented yet\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Kishan Ghetiya<kishanp.ghetiya@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@hyperswarm/rpc": "^3.3.2",
+    "axios": "^1.8.1",
+    "cron": "^4.1.0",
+    "dotenv": "^16.4.7",
+    "hyperbee": "^2.22.2",
+    "hypercore": "^10.38.2",
+    "hyperdht": "^6.20.1"
+  }
+}
